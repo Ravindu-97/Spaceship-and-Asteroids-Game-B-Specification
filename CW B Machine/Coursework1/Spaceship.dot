@@ -1,0 +1,170 @@
+digraph history {
+graph [nodesep=1.5, ranksep=1.5];
+root [shape=invtriangle, color="#99BF38", fontsize=12, penwidth=2, label="root"];
+
+0 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="startingPower = 100,normalMovePowerConsumption = 5,warpDrivePowerConsumption = 20,\npowerDecrementDueToAsteroidCollision = 10,space_x_axis = \{1,2,3,4,5,6,7,8,9,10,11,12\},space_y_axis = \{1,2,3,4,5,6,7\},\nspace = \{(1\|-\>1),(1\|-\>2),(1\|-\>3),(1\|-\>4),(1\|-\>5),(1\|-\>6),(1\|-\>7),(2\|-\>1),(2\|-\>2),(2\|-\>3),(2\|-\>4),(2\|-\>5),(2\|-\>6),(2\|-\>7),(3\|-\>1),(3\|-\>2),(3\|-\>3),(3\|-\>4),(3\|-\>5),(3\|-\>6),(3\|-\>7),(4\|-\>1),(4\|-\>2),(4\|-\>3),(4\|-\>4),(4\|-\>5),(4\|-\>6),(4\|-\>7),(5\|-\>1),(5\|-\>2),(5\|-\>3),(5\|-\>4),(5\|-\>5),(5\|-\>6),(5\|-\>7),(6\|-\>1),(6\|-\>2),(6\|-\>3),(6\|-\>4),(6\|-\>5),(6\|-\>6),(6\|-\>7),(7\|-\>1),(7\|-\>2),(7\|-\>3),(7\|-\>4),(7\|-\>5),(7\|-\>6),(7\|-\>7),(8\|-\>1),(8\|-\>2),(8\|-\>3),(8\|-\>4),(8\|-\>5),(8\|-\>6),(8\|-\>7),(9\|-\>1),(9\|-\>2),(9\|-\>3),(9\|-\>4),(9\|-\>5),(9\|-\>6),(9\|-\>7),(10\|-\>1),(10\|-\>2),(10\|-\>3),(10\|-\>4),(10\|-\>5),(10\|-\>6),(10\|-\>7),(11\|-\>1),(11\|-\>2),(11\|-\>3),(11\|-\>4),(11\|-\>5),(11\|-\>6),(11\|-\>7),(12\|-\>1),(12\|-\>2),(12\|-\>3),(12\|-\>4),(12\|-\>5),(12\|-\>6),(12\|-\>7)\},freeSpace = \{(1\|-\>1),(1\|-\>2),(1\|-\>3),(1\|-\>4),(1\|-\>5),(1\|-\>6),(1\|-\>7),(2\|-\>1),(2\|-\>2),(2\|-\>3),(2\|-\>4),(2\|-\>5),(2\|-\>6),(2\|-\>7),(3\|-\>1),(3\|-\>3),(3\|-\>4),(3\|-\>6),(3\|-\>7),(4\|-\>1),(4\|-\>2),(4\|-\>3),(4\|-\>4),(4\|-\>5),(4\|-\>6),(4\|-\>7),(5\|-\>1),(5\|-\>2),(5\|-\>3),(5\|-\>5),(5\|-\>6),(5\|-\>7),(6\|-\>1),(6\|-\>2),(6\|-\>3),(6\|-\>4),(6\|-\>5),(6\|-\>6),(7\|-\>2),(7\|-\>3),(7\|-\>4),(7\|-\>6),(8\|-\>1),(8\|-\>2),(8\|-\>4),(8\|-\>5),(8\|-\>6),(8\|-\>7),(9\|-\>1),(9\|-\>2),(9\|-\>3),(9\|-\>4),(9\|-\>5),(9\|-\>6),(9\|-\>7),(10\|-\>1),(10\|-\>2),(10\|-\>3),(10\|-\>4),(10\|-\>5),(10\|-\>7),(11\|-\>1),(11\|-\>3),(11\|-\>4),(11\|-\>5),(11\|-\>6),(11\|-\>7),(12\|-\>1),(12\|-\>2),(12\|-\>3),(12\|-\>4),(12\|-\>6),(12\|-\>7)\},asteroids = \{(3\|-\>2),(3\|-\>5),(5\|-\>4),(6\|-\>7),(7\|-\>1),(7\|-\>5),(7\|-\>7),(8\|-\>3),(10\|-\>6),(11\|-\>2),(12\|-\>5)\},\nhomebase = (1\|-\>1),starbase = (6\|-\>4)"];
+
+1 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 100,x_coordinate = 1,y_coordinate = 1,\ncollisionsCount = 0,visitedRegions(1) = (1\|-\>1)"];
+
+1 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 100,x_coordinate = 1,y_coordinate = 1,\ncollisionsCount = 0,visitedRegions(1) = (1\|-\>1)"];
+
+275 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 200,x_coordinate = 1,y_coordinate = 1,\ncollisionsCount = 0,visitedRegions(1) = (1\|-\>1)"];
+
+275 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 200,x_coordinate = 1,y_coordinate = 1,\ncollisionsCount = 0,visitedRegions(1) = (1\|-\>1)"];
+
+275 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 200,x_coordinate = 1,y_coordinate = 1,\ncollisionsCount = 0,visitedRegions(1) = (1\|-\>1)"];
+
+275 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 200,x_coordinate = 1,y_coordinate = 1,\ncollisionsCount = 0,visitedRegions(1) = (1\|-\>1)"];
+
+275 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 200,x_coordinate = 1,y_coordinate = 1,\ncollisionsCount = 0,visitedRegions(1) = (1\|-\>1)"];
+
+275 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 200,x_coordinate = 1,y_coordinate = 1,\ncollisionsCount = 0,visitedRegions(1) = (1\|-\>1)"];
+
+275 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 200,x_coordinate = 1,y_coordinate = 1,\ncollisionsCount = 0,visitedRegions(1) = (1\|-\>1)"];
+
+275 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 200,x_coordinate = 1,y_coordinate = 1,\ncollisionsCount = 0,visitedRegions(1) = (1\|-\>1)"];
+
+275 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 200,x_coordinate = 1,y_coordinate = 1,\ncollisionsCount = 0,visitedRegions(1) = (1\|-\>1)"];
+
+377 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 195,x_coordinate = 2,y_coordinate = 1,\ncollisionsCount = 0,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1)"];
+
+450 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 190,x_coordinate = 2,y_coordinate = 2,\ncollisionsCount = 0,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2)"];
+
+450 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 190,x_coordinate = 2,y_coordinate = 2,\ncollisionsCount = 0,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2)"];
+
+450 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 190,x_coordinate = 2,y_coordinate = 2,\ncollisionsCount = 0,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2)"];
+
+527 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 175,x_coordinate = 2,y_coordinate = 2,\ncollisionsCount = 1,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2)"];
+
+527 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 175,x_coordinate = 2,y_coordinate = 2,\ncollisionsCount = 1,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2)"];
+
+604 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 170,x_coordinate = 1,y_coordinate = 2,\ncollisionsCount = 1,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2)"];
+
+604 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 170,x_coordinate = 1,y_coordinate = 2,\ncollisionsCount = 1,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2)"];
+
+604 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 170,x_coordinate = 1,y_coordinate = 2,\ncollisionsCount = 1,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2)"];
+
+604 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 170,x_coordinate = 1,y_coordinate = 2,\ncollisionsCount = 1,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2)"];
+
+604 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 170,x_coordinate = 1,y_coordinate = 2,\ncollisionsCount = 1,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2)"];
+
+604 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 170,x_coordinate = 1,y_coordinate = 2,\ncollisionsCount = 1,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2)"];
+
+604 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 170,x_coordinate = 1,y_coordinate = 2,\ncollisionsCount = 1,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2)"];
+
+604 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 170,x_coordinate = 1,y_coordinate = 2,\ncollisionsCount = 1,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2)"];
+
+714 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 150,x_coordinate = 4,y_coordinate = 4,\ncollisionsCount = 1,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2),visitedRegions(5) = (4\|-\>4)"];
+
+714 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 150,x_coordinate = 4,y_coordinate = 4,\ncollisionsCount = 1,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2),visitedRegions(5) = (4\|-\>4)"];
+
+714 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 150,x_coordinate = 4,y_coordinate = 4,\ncollisionsCount = 1,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2),visitedRegions(5) = (4\|-\>4)"];
+
+753 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 145,x_coordinate = 4,y_coordinate = 3,\ncollisionsCount = 1,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2),visitedRegions(5) = (4\|-\>4),\nvisitedRegions(6) = (4\|-\>3)"];
+
+830 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 140,x_coordinate = 5,y_coordinate = 3,\ncollisionsCount = 1,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2),visitedRegions(5) = (4\|-\>4),\nvisitedRegions(6) = (4\|-\>3),visitedRegions(7) = (5\|-\>3)"];
+
+906 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 135,x_coordinate = 6,y_coordinate = 3,\ncollisionsCount = 1,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2),visitedRegions(5) = (4\|-\>4),\nvisitedRegions(6) = (4\|-\>3),visitedRegions(7) = (5\|-\>3),visitedRegions(8) = (6\|-\>3)"];
+
+906 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 135,x_coordinate = 6,y_coordinate = 3,\ncollisionsCount = 1,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2),visitedRegions(5) = (4\|-\>4),\nvisitedRegions(6) = (4\|-\>3),visitedRegions(7) = (5\|-\>3),visitedRegions(8) = (6\|-\>3)"];
+
+982 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 130,x_coordinate = 7,y_coordinate = 3,\ncollisionsCount = 1,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2),visitedRegions(5) = (4\|-\>4),\nvisitedRegions(6) = (4\|-\>3),visitedRegions(7) = (5\|-\>3),visitedRegions(8) = (6\|-\>3),\nvisitedRegions(9) = (7\|-\>3)"];
+
+982 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 130,x_coordinate = 7,y_coordinate = 3,\ncollisionsCount = 1,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2),visitedRegions(5) = (4\|-\>4),\nvisitedRegions(6) = (4\|-\>3),visitedRegions(7) = (5\|-\>3),visitedRegions(8) = (6\|-\>3),\nvisitedRegions(9) = (7\|-\>3)"];
+
+1058 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 115,x_coordinate = 7,y_coordinate = 3,\ncollisionsCount = 2,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2),visitedRegions(5) = (4\|-\>4),\nvisitedRegions(6) = (4\|-\>3),visitedRegions(7) = (5\|-\>3),visitedRegions(8) = (6\|-\>3),\nvisitedRegions(9) = (7\|-\>3)"];
+
+1058 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 115,x_coordinate = 7,y_coordinate = 3,\ncollisionsCount = 2,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2),visitedRegions(5) = (4\|-\>4),\nvisitedRegions(6) = (4\|-\>3),visitedRegions(7) = (5\|-\>3),visitedRegions(8) = (6\|-\>3),\nvisitedRegions(9) = (7\|-\>3)"];
+
+1162 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 95,x_coordinate = 6,y_coordinate = 3,\ncollisionsCount = 2,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2),visitedRegions(5) = (4\|-\>4),\nvisitedRegions(6) = (4\|-\>3),visitedRegions(7) = (5\|-\>3),visitedRegions(8) = (6\|-\>3),\nvisitedRegions(9) = (7\|-\>3),visitedRegions(10) = (6\|-\>3)"];
+
+1162 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 95,x_coordinate = 6,y_coordinate = 3,\ncollisionsCount = 2,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2),visitedRegions(5) = (4\|-\>4),\nvisitedRegions(6) = (4\|-\>3),visitedRegions(7) = (5\|-\>3),visitedRegions(8) = (6\|-\>3),\nvisitedRegions(9) = (7\|-\>3),visitedRegions(10) = (6\|-\>3)"];
+
+1162 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 95,x_coordinate = 6,y_coordinate = 3,\ncollisionsCount = 2,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2),visitedRegions(5) = (4\|-\>4),\nvisitedRegions(6) = (4\|-\>3),visitedRegions(7) = (5\|-\>3),visitedRegions(8) = (6\|-\>3),\nvisitedRegions(9) = (7\|-\>3),visitedRegions(10) = (6\|-\>3)"];
+
+1162 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 95,x_coordinate = 6,y_coordinate = 3,\ncollisionsCount = 2,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2),visitedRegions(5) = (4\|-\>4),\nvisitedRegions(6) = (4\|-\>3),visitedRegions(7) = (5\|-\>3),visitedRegions(8) = (6\|-\>3),\nvisitedRegions(9) = (7\|-\>3),visitedRegions(10) = (6\|-\>3)"];
+
+1162 [shape=box, color="#99BF38", fontsize=12, penwidth=2, label="power = 95,x_coordinate = 6,y_coordinate = 3,\ncollisionsCount = 2,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2),visitedRegions(5) = (4\|-\>4),\nvisitedRegions(6) = (4\|-\>3),visitedRegions(7) = (5\|-\>3),visitedRegions(8) = (6\|-\>3),\nvisitedRegions(9) = (7\|-\>3),visitedRegions(10) = (6\|-\>3)"];
+
+1208 [shape=doubleoctagon, color="#99BF38", fontsize=12, penwidth=2, label="power = 90,x_coordinate = 6,y_coordinate = 4,\ncollisionsCount = 2,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2),visitedRegions(5) = (4\|-\>4),\nvisitedRegions(6) = (4\|-\>3),visitedRegions(7) = (5\|-\>3),visitedRegions(8) = (6\|-\>3),\nvisitedRegions(9) = (7\|-\>3),visitedRegions(10) = (6\|-\>3),visitedRegions(11) = (6\|-\>4)"];
+
+1208 [shape=doubleoctagon, color="#99BF38", fontsize=12, penwidth=2, label="power = 90,x_coordinate = 6,y_coordinate = 4,\ncollisionsCount = 2,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2),visitedRegions(5) = (4\|-\>4),\nvisitedRegions(6) = (4\|-\>3),visitedRegions(7) = (5\|-\>3),visitedRegions(8) = (6\|-\>3),\nvisitedRegions(9) = (7\|-\>3),visitedRegions(10) = (6\|-\>3),visitedRegions(11) = (6\|-\>4)"];
+
+1208 [shape=doubleoctagon, color="#99BF38", fontsize=12, penwidth=2, label="power = 90,x_coordinate = 6,y_coordinate = 4,\ncollisionsCount = 2,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2),visitedRegions(5) = (4\|-\>4),\nvisitedRegions(6) = (4\|-\>3),visitedRegions(7) = (5\|-\>3),visitedRegions(8) = (6\|-\>3),\nvisitedRegions(9) = (7\|-\>3),visitedRegions(10) = (6\|-\>3),visitedRegions(11) = (6\|-\>4)"];
+
+1208 [shape=doubleoctagon, color="#99BF38", fontsize=12, penwidth=2, label="power = 90,x_coordinate = 6,y_coordinate = 4,\ncollisionsCount = 2,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2),visitedRegions(5) = (4\|-\>4),\nvisitedRegions(6) = (4\|-\>3),visitedRegions(7) = (5\|-\>3),visitedRegions(8) = (6\|-\>3),\nvisitedRegions(9) = (7\|-\>3),visitedRegions(10) = (6\|-\>3),visitedRegions(11) = (6\|-\>4)"];
+
+1208 [shape=doubleoctagon, color="#99BF38", fontsize=12, penwidth=2, label="power = 90,x_coordinate = 6,y_coordinate = 4,\ncollisionsCount = 2,visitedRegions(1) = (1\|-\>1),visitedRegions(2) = (2\|-\>1),\nvisitedRegions(3) = (2\|-\>2),visitedRegions(4) = (1\|-\>2),visitedRegions(5) = (4\|-\>4),\nvisitedRegions(6) = (4\|-\>3),visitedRegions(7) = (5\|-\>3),visitedRegions(8) = (6\|-\>3),\nvisitedRegions(9) = (7\|-\>3),visitedRegions(10) = (6\|-\>3),visitedRegions(11) = (6\|-\>4)"];
+
+root -> 0 [style = dotted, color = black, label="SETUP_CONSTANTS", fontsize=12];
+
+0 -> 1 [color = "#006391", label="INITIALISATION", fontsize=12];
+
+1 -> 1 [color = "#006391", label="NewGame(100)", fontsize=12];
+
+1 -> 275 [color = "#006391", label="NewGame(200)", fontsize=12];
+
+275 -> 275 [color = "#006391", label="NewGame(200)", fontsize=12];
+
+275 -> 275 [color = "#006391", label="NewGame(200)", fontsize=12];
+
+275 -> 275 [color = "#006391", label="NewGame(200)", fontsize=12];
+
+275 -> 275 [color = "#006391", label="NewGame(200)", fontsize=12];
+
+275 -> 275 [color = "#006391", label="NewGame(200)", fontsize=12];
+
+275 -> 275 [color = "#006391", label="NewGame(200)", fontsize=12];
+
+275 -> 275 [color = "#006391", label="NewGame(200)", fontsize=12];
+
+275 -> 275 [color = "#006391", label="NewGame(200)", fontsize=12];
+
+275 -> 377 [color = "#006391", label="MoveForward--\>movement_successful,move_forward", fontsize=12];
+
+377 -> 450 [color = "#006391", label="MoveUp--\>movement_successful,move_up", fontsize=12];
+
+
+
+450 -> 527 [color = "#006391", label="MoveForward--\>collided_into_an_asteroid,move_forwa\nrd", fontsize=12];
+
+
+527 -> 604 [color = "#006391", label="MoveBackward--\>movement_successful,move_backward", fontsize=12];
+
+
+
+
+
+
+
+
+604 -> 714 [color = "#006391", label="EngageWarpDrive(4,4)--\>movement_successful,warp_dr\nive", fontsize=12];
+
+
+
+714 -> 753 [color = "#006391", label="MoveDown--\>movement_successful,move_down", fontsize=12];
+
+753 -> 830 [color = "#006391", label="MoveForward--\>movement_successful,move_forward", fontsize=12];
+
+830 -> 906 [color = "#006391", label="MoveForward--\>movement_successful,move_forward", fontsize=12];
+
+
+906 -> 982 [color = "#006391", label="MoveForward--\>movement_successful,move_forward", fontsize=12];
+
+
+982 -> 1058 [color = "#006391", label="MoveForward--\>collided_into_an_asteroid,move_forwa\nrd", fontsize=12];
+
+
+1058 -> 1162 [color = "#006391", label="EngageWarpDrive(6,3)--\>movement_successful,warp_dr\nive", fontsize=12];
+
+
+
+
+
+1162 -> 1208 [color = "#006391", label="MoveUp--\>movement_successful,move_up", fontsize=12];
+
+
+
+
+
+}
